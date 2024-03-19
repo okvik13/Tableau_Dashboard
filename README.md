@@ -1,4 +1,4 @@
-# Data Analyst Salary from XXXX to 2024 and it's forecast
+# Data Analyst Salary from XXXX to 2024 and its forecast
 
 ## Table of Contents
 - [Project Overview](#project-overview)
